@@ -1,0 +1,118 @@
+ h1 {
+    color: #636060;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+}
+.bu {
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 120px;
+}
+.home {
+    margin-left: 956px;
+}
+.aboutus {
+    margin-left: 80px;
+}
+.ourservices {
+    margin-left: 80px;
+}
+.tourpackage {
+    margin-left: 80px;
+}
+.foto1 {
+    margin-top: 30px;
+    margin-left: 220px;
+}
+.discover {
+    color: #636060;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    margin-top: 20px;
+   
+}
+
+.hots {
+    color: #010101;
+    font-family: Helvetica;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    margin-top: 15px;
+    
+}
+.txt1 {
+    color: #636060;
+    font-family: Helvetica;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    margin-top: 35px;
+    
+}
+.container {
+    height: 700px;
+    width: 1500px;
+    margin-left: 220px;
+    margin-top: 90px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.div1 {
+    height: 220px;
+    width: 240px;
+
+}
+
+.container div{
+    height: 320px;
+    width: 290px;
+}
+.div2 {
+    margin-left: 83px;
+}
+.div3 {
+    margin-left: 33px;
+}
+.div4 {
+    margin-left: 33px;
+}
+.div5 {
+    margin-left: 375px;
+}
+.div6 {
+    margin-left: 33px;
+}
+.div7 {
+    margin-left: 33px;
+}
+.divtxt1 {
+    color: #343232;
+    font-family: Helvetica;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 27px;
+}
+.divtxt2 {
+    color: #636060;
+    font-family: Helvetica;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 13px;
+}
