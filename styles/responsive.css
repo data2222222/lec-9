@@ -1,0 +1,64 @@
+@media screen and (max-width: 1024px) {
+    .container {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .div1,
+    .container div {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .div2,
+    .div3,
+    .div4,
+    .div5,
+    .div6,
+    .div7 {
+        margin-left: 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+        height: auto;
+        margin-top: 30px;
+    }
+
+    .div1,
+    .container div {
+        height: auto;
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .divtxt1,
+    .divtxt2 {
+        font-size: 16px;
+    }
+
+    .home {
+        margin-left: 20px;
+    }
+
+    .aboutus,
+    .ourservices,
+    .tourpackage {
+        margin-left: 20px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .bu {
+        margin-left: 20px;
+    }
+
+    .foto1 {
+        margin-left: 20px;
+    }
+
+    .container {
+        margin-left: 20px;
+    }
+}
